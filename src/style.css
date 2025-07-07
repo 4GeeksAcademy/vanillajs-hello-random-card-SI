@@ -1,7 +1,7 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-   background: #f0f0f5;
+   background: green;
   font-family: sans-serif;
   display: flex;
   flex-direction: column;
